@@ -1,5 +1,5 @@
 body {
-    background-image: url(res/spacehey_twilight.png);
+    background: url(res/spacehey_twilight.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover
